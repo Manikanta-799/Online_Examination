@@ -153,11 +153,6 @@ Start attending the examination.
 Online-Examination-System/
 │
 ├── README.md
-├── OnlineExamSystem.java
-├── screenshots/
-│   ├── exam_screen.png
-│   └── result_screen.png
-│
 ├── report/
 │   └── 24911A1229_Java.pdf
 ```
